@@ -1,0 +1,45 @@
+body {
+    background: rgb(85,37,131);
+     background: linear-gradient(90deg, rgba(85,37,131,1) 0%, rgba(253,185,39,1) 100%);
+     font-family: 'Roboto Condensed', sans-serif;
+     margin: 0;
+     font-size: 1.6rem;
+     line-height: 1.5;
+     text-align: center;
+     color: black;
+}
+#main {
+    margin: 0px 80px;
+    padding: 15px;
+    background: #484848;
+}
+.image1 {
+    width: 100%;
+    height: auto;
+}
+#title {
+    color:#BEBEBE;
+}
+
+#headline {
+    padding: 30px;
+}
+
+#tribute-info{
+background-color: white;
+}
+li {
+    list-style: none;
+}
+ul{
+    padding-bottom: 40px;
+}
+
+.p1 {
+    font-style: italic;
+    padding: 30px;
+}
+.p2 {
+    text-align: right;
+    padding-right: 70px;
+}
